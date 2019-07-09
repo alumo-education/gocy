@@ -7,7 +7,7 @@ import (
 
 type clause struct {
 	queryString string
-	returns map[string]struct{}
+	returns     map[string]struct{}
 }
 
 func (m clause) Node(i interface{}) clause {
