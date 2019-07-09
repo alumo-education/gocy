@@ -5,7 +5,7 @@
  \__, |\___/ \___|\__, |
  |___/            |___/ 
 ```
-[![Go Report Card](https://goreportcard.com/badge/github.com/alumo-education/gocy)](https://goreportcard.com/report/github.com/alumo-education/gocy)
+[![Go Report Card](https://goreportcard.com/badge/github.com/edunuzzi/gocy)](https://goreportcard.com/report/github.com/edunuzzi/gocy)
 
 `gocy` is an expressive Cypher builder
 
