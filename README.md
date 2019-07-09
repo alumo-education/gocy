@@ -1,26 +1,19 @@
 ```
-  __ _  ___   __ _ _   _
- / _` |/ _ \ / _` | | | |
-| (_| | (_) | (_| | |_| |
- \__, |\___/ \__, |\__,_|
- |___/          |_|
+  __ _  ___   ___ _   _ 
+ / _` |/ _ \ / __| | | |
+| (_| | (_) | (__| |_| |
+ \__, |\___/ \___|\__, |
+ |___/            |___/ 
 ```
 [![Go Report Card](https://goreportcard.com/badge/github.com/alumo-education/gocy)](https://goreportcard.com/report/github.com/alumo-education/gocy)
 
 `gocy` is an expressive Cypher builder
 
 * [Basics](#basics)
-* [Expressions](#expressions)
-    * [Complex Example](#complex-example)
 * [Querying](#querying)
-    * [Dataset](#dataset)
-        * [Prepared Statements](#dataset_prepared)
-    * [Database](#database)
-    * [Transactions](#transactions)
 * [Logging](#logging)
-* [Adapters](#adapters)
 * [Contributions](#contributions)
-* [Changelog](https://github.com/doug-martin/goqu/tree/master/HISTORY.md)
+* [Changelog](https://github.com/alumo-education/gocy/blob/master/HISTORY.md)
 
 This library was built with the following goals:
 
@@ -53,11 +46,6 @@ TODO
 
 <a name="logging"></a>
 ## Logging
-
-TODO
-
-<a name="adapters"></a>
-## Adapters
 
 TODO
 
